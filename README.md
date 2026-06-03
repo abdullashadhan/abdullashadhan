@@ -46,30 +46,35 @@ class AbdullaShadhan:
 
 <div align="center">
 
-**Languages & Data**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Analytics & ML**
-
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools & Platforms**
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
@@ -121,7 +126,12 @@ class AbdullaShadhan:
 <summary><b>WAHY Lab Solutions</b> · Data Analyst Intern · Mar 2026 to Present · Ernakulam, Kerala</summary>
 <br>
 
-> `Python` · `SQL` · `Power BI` · `Data Visualization` · `Reporting Automation`
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 - Automated reporting workflows using SQL and Python, cutting manual processing time by **40%**
 - Designed data visualizations that made complex datasets simple to navigate and understand
@@ -136,9 +146,9 @@ class AbdullaShadhan:
 
 | Project | Stack | Highlights |
 |:--|:--|:--|
-| [Reporting Workflow Automation](https://github.com/abdullashadhan) | Python · SQL · Power BI | Automated end to end reporting workflows, cut manual processing time by 40% |
-| [Interactive Data Visualization](https://github.com/abdullashadhan) | Power BI · SQL · DAX | Built user focused visual reporting that made complex data easy to explore |
-| [AI & ML Learning Portfolio](https://github.com/abdullashadhan) | Python · Java · Scikit Learn | Academic projects from BCA specialization in AI, ML, and Robotics |
+| [Reporting Workflow Automation](https://github.com/abdullashadhan) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Cut manual processing time by 40% |
+| [Interactive Data Visualization](https://github.com/abdullashadhan) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Made complex data easy to explore |
+| [AI & ML Learning Portfolio](https://github.com/abdullashadhan) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | BCA specialization projects |
 
 </div>
 
@@ -168,6 +178,19 @@ class AbdullaShadhan:
 
 <br>
 
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-00599C?style=for-the-badge&logo=ros&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
 ```
 Machine Learning        → model fundamentals, applied workflows, evaluation
 Artificial Intelligence → concepts, responsible usage, problem framing
@@ -192,7 +215,12 @@ Backend Foundations     → python, java, sql, git
 
 <br><br>
 
-Problem Solving · Communication · Leadership · Critical Thinking · Teamwork · Attention to Detail
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-58a6ff?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-a78bfa?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-7dd3fc?style=flat-square)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-58a6ff?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork-a78bfa?style=flat-square)
+![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-7dd3fc?style=flat-square)
 
 <br>
 
