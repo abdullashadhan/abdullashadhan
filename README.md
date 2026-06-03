@@ -1,22 +1,18 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 1. HERO BANNER — Animated Gradient Wave                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdulla%20Shadhan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Final-year%20BCA%20Student%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=62&descSize=16)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdulla%20Shadhan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Final-year%20BCA%20student%20specializing%20in%20AI%20%7C%20ML%20%7C%20Robotics&descAlignY=62&descSize=16" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 2. TYPING HEADER                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-year+BCA+Student+%F0%9F%8E%93;Data+Analyst+%7C+ML+Enthusiast+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+Developer+%F0%9F%90%8D;Building+Data-Driven+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
 
-<!-- Profile Views Counter -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-year+BCA+Student+%F0%9F%8E%93;Python+%7C+Java+%7C+SQL+%7C+Power+BI+%F0%9F%90%8D;AI+%7C+ML+%7C+Robotics+Specialization+%F0%9F%A4%96;Data-driven+Insights+with+Measurable+Impact+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+<!-- Profile Views & Social Links -->
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullashadhan&color=70A5FD&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/-Abdulla%20Shadhan%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulla-shadhan-s)
-[![Gmail](https://img.shields.io/badge/-shadhanshaan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shadhanshaan@gmail.com)
-[![GitHub](https://img.shields.io/badge/-abdullashadhan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullashadhan)
+[![Email](https://img.shields.io/badge/Email-shadhanshaan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shadhanshaan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulla%20Shadhan%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulla-shadhan-s)
+[![GitHub](https://img.shields.io/badge/GitHub-abdullashadhan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullashadhan)
 
 </div>
 
@@ -27,37 +23,41 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class AboutMe:
+class AbdullaShadhan:
     """🚀 Who am I?"""
 
-    def __init__(self):
-        self.name        = "Abdulla Shadhan S"
-        self.location    = "Bangalore, India 🇮🇳"
-        self.degree      = "BCA in Computer Science (AI | ML | Robotics)"
-        self.university  = "Yenepoya Deemed To Be University"
-        self.role        = "Data Analyst Intern @ WAHY Lab Solutions"
+    name     = "Abdulla Shadhan S"
+    location = "Bangalore, Karnataka, India"
+    degree   = "BCA - Computer Science | AI, ML & Robotics"
 
-        self.stack = [
-            "Python", "Java", "SQL",
-            "JavaScript", "HTML", "Power BI"
-        ]
+    stack = [
+        "Python", "Java", "SQL", "JavaScript", "HTML",
+        "Power BI", "Git", "VS Code", "PyCharm", "Antigravity"
+    ]
 
-        self.currently_learning = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Engineering",
-            "Cloud Computing"
-        ]
+    currentlyLearning = [
+        "Machine Learning workflows",
+        "Artificial Intelligence fundamentals",
+        "Robotics-oriented problem solving",
+        "Data storytelling with Power BI"
+    ]
 
-        self.fun_fact = "I speak 4 languages fluently! 🌍"
+    languages = {
+        "English":   "Advanced (C1)",
+        "Hindi":     "Bilingual / Proficient (C2)",
+        "Malayalam": "Bilingual / Proficient (C2)",
+        "Tamil":     "Intermediate (B1)"
+    }
+
+    funFact = "I like turning messy data into clear, useful stories."
 
     def motto(self):
-        return "Turning raw data into actionable insights 📊"
+        return "Build insight, measure impact, keep improving."
 
 
-me = AboutMe()
+me = AbdullaShadhan()
 print(me.motto())
-# >>> Turning raw data into actionable insights 📊
+# >>> Build insight, measure impact, keep improving.
 ```
 
 <br clear="both"/>
@@ -79,11 +79,13 @@ print(me.motto())
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-#### 📊 Frameworks & Analytics
+#### 🧠 Frameworks & Specializations
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-00599C?style=flat-square&logo=ros&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -92,12 +94,14 @@ print(me.motto())
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Databases](https://img.shields.io/badge/SQL%20Databases-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 #### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-1A73E8?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
@@ -112,10 +116,10 @@ print(me.motto())
 ### 📈 GitHub Analytics
 
 <a href="https://github.com/abdullashadhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullashadhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullashadhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Abdulla's GitHub stats"/>
 </a>
 <a href="https://github.com/abdullashadhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashadhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashadhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Abdulla's top languages"/>
 </a>
 
 </div>
@@ -175,22 +179,23 @@ print(me.motto())
 </div>
 
 <details open>
-<summary><b>📊 Data Analyst Intern — WAHY Lab Solutions &nbsp;|&nbsp; Mar 2026 – Present &nbsp;|&nbsp; Ernakulam, Kerala</b></summary>
+<summary><b>📊 WAHY Lab Solutions · Data Analyst Intern · 03/2026 – Current · Ernakulam, Kerala</b></summary>
 <br>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 > ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-> ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+> ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-38BDAE?style=flat-square&logo=tableau&logoColor=white)
+> ![Reporting Automation](https://img.shields.io/badge/Reporting%20Automation-BF91F3?style=flat-square&logo=automattic&logoColor=white)
 
-- 🔹 Designed data visualizations that made complex datasets **visually appealing, simple to navigate, and easy to understand** for end users
 - 🔹 **Automated reporting workflows** using SQL and Python, reducing manual data processing time by **40%**
-- 🔹 Collaborated with cross-functional teams to generate **actionable insights** from raw data, driving data-informed decision-making
-- 🔹 Built interactive dashboards using **Power BI** to track KPIs and business metrics in real-time
+- 🔹 Helped make data **visually appealing, simple to navigate, and easy to understand** for end users
+- 🔹 Supported data-driven reporting work focused on **actionable insights and measurable impact**
+- 🔹 Applied analytical thinking, communication, teamwork, and **attention to detail** in a professional data environment
 
 </details>
 
---
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 11. FEATURED PROJECTS                                                      -->
@@ -202,9 +207,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**📊 Automated Reporting Pipeline**](https://github.com/abdullashadhan) | `Python` `SQL` `Pandas` | Automated end-to-end reporting workflows, cutting manual processing time by **40%** and improving data accuracy |
-| [**📈 Interactive BI Dashboard**](https://github.com/abdullashadhan) | `Power BI` `SQL` `DAX` | Built real-time business intelligence dashboards for KPI tracking, serving **multiple teams** with actionable insights |
-| [**🤖 ML Exploratory Analysis**](https://github.com/abdullashadhan) | `Python` `Scikit-learn` `NumPy` | Developed machine learning models for predictive analytics as part of AI/ML university coursework |
+| [**📊 Reporting Workflow Automation**](https://github.com/abdullashadhan) | `Python` `SQL` `Power BI` | Automated reporting workflows during internship, reduced manual data processing time by **40%** |
+| [**📈 Interactive Data Visualization**](https://github.com/abdullashadhan) | `Power BI` `SQL` `Data Analysis` | Built user-focused visual reporting experiences that were easier to navigate and understand for end users |
+| [**🤖 AI, ML & Robotics Learning Portfolio**](https://github.com/abdullashadhan) | `Python` `Java` `AI` `ML` `Robotics` | Academic specialization portfolio aligned with BCA Computer Science major in AI, ML, and Robotics |
 
 > 💡 *Update the links above to point to your actual repository URLs!*
 
@@ -222,11 +227,11 @@ print(me.motto())
 
 | &nbsp; | Achievement | Details |
 |:------:|:------------|:--------|
-| 🏆 | **Microsoft Power BI Data Analyst** | Professional certification by **Microsoft** — validated expertise in data modeling, visualization & DAX |
-| 🎯 | **People & Soft Skills Certification** | Issued by **IBM** — Essential for Professional Success program |
-| 🤖 | **Introduction to Artificial Intelligence** | Issued by **IBM** — Foundational AI concepts, ML pipelines & neural networks |
-| 📊 | **40% Efficiency Boost** | Automated reporting workflows at **WAHY Lab Solutions**, reducing manual processing time by **40%** |
-| 🌍 | **Multilingual Professional** | Fluent in **4 languages** — Hindi (C2), Malayalam (C2), English (C1), Tamil (B1) |
+| 🏅 | **Microsoft Power BI Data Analyst Certification** | Completed Microsoft Power BI Data Analyst certification — validated expertise in data modeling, visualization & DAX |
+| 🤝 | **IBM Professional Skills Certification** | Completed IBM "People & Soft Skills: Essential for Professional Success" program |
+| 🤖 | **IBM Artificial Intelligence Certification** | Completed IBM "Introduction to Artificial Intelligence" — foundational AI concepts, ML pipelines & neural networks |
+| 📊 | **Reporting Automation Impact** | Reduced manual data processing time by **40%** using SQL and Python at WAHY Lab Solutions |
+| 🗣️ | **Multilingual Communication** | English (C1), Hindi (C2), Malayalam (C2), Tamil (B1) — fluent in **4 languages** |
 
 </div>
 
@@ -255,11 +260,11 @@ print(me.motto())
 </div>
 
 ```
-🧠 Machine Learning      → Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
-🧱 Deep Learning          → Neural Networks, CNNs, Transfer Learning, PyTorch
-📊 Data Engineering       → ETL Pipelines, Data Warehousing, Apache Spark
-☁️ Cloud Computing        → AWS Fundamentals, Azure Data Services, Cloud Deployment
-🔬 Advanced Analytics     → Statistical Modeling, A/B Testing, Predictive Analytics
+🧱 Machine Learning       → Model fundamentals, applied workflows, evaluation
+🧠 Artificial Intelligence → Concepts, responsible usage, problem framing
+🤖 Robotics                → Logic, automation thinking, intelligent systems
+📊 Power BI                → Data modeling, visual storytelling, dashboard polish
+🛠️ Backend Foundations      → Python, Java, SQL, Git
 ```
 
 ---
@@ -269,17 +274,21 @@ print(me.motto())
 ### 🤝 Let's Connect!
 
 <p>
-  <a href="https://linkedin.com/in/abdulla-shadhan-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abdulla-shadhan-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:shadhanshaan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="https://github.com/abdullashadhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <br>
 
+**Problem Solving | Communication | Leadership | Critical Thinking | Teamwork | Attention to Detail**
+
+<br>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 <!-- FOOTER WAVE -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
 
